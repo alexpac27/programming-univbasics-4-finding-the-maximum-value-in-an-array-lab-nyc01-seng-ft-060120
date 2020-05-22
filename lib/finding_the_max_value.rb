@@ -13,7 +13,7 @@ def find_max_value(array)
      if array[count] > highest_i
        highest_i = array[count]
      else
-       highest_i =
+       highest_i = highest_i
      end
        count += 1
   end
